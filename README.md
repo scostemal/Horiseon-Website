@@ -34,7 +34,10 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's intended appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
 
+## Deployment
+
+The following [link](https://scostemal.github.io/Horiseon-Website/) is the end result of the homework assignment.
