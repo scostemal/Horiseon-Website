@@ -1,12 +1,12 @@
 # Week 1 Homework Assignment: Code Refactor
-  *On-the-job ticket - gives you starter code in a folder called "Develop", which you'll modify to complete the assignment
-  *Refactoring - editing existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology.
+  * On-the-job ticket - gives you starter code in a folder called "Develop", which you'll modify to complete the assignment
+  * Refactoring - editing existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology.
 
 ## Objectives
-  *Greater accessibility
-  *Link functionality
-  *Greater CSS efficiency
-  *Long-term sustainability
+  * Greater accessibility
+  * Link functionality
+  * Greater CSS efficiency
+  * Long-term sustainability
 
 ## User Story
 
@@ -36,5 +36,5 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
 
